@@ -1,6 +1,5 @@
-﻿/** RANDOMIZEDQUICKSORTCLASS CLASS
- * Author: Preeti Francis
- * WSU ID: S578F746
+/** RANDOMIZEDQUICKSORTCLASS CLASS
+ * Author: Preeti 
  * Course: CS560 
  * Sem: S2013
  * 
